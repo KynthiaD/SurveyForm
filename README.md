@@ -8,7 +8,7 @@ The page is responsive and compatible with a variety of screen sizes.
 Visit the live page [here](https://kynthiad.github.io/SurveyForm/).
 
 ## Screenshots
-
+![](screenshot.png)
 
 ## Resources
 [FreeCodeCamp](https://www.freecodecamp.org/)
