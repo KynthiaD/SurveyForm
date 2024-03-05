@@ -5,7 +5,7 @@ This is a simple one page mock survey form created with HTML and CSS based on fr
 The page is responsive and compatible with a variety of screen sizes.
 
 ## Link
-Visit the live page [here]().
+Visit the live page [here](https://kynthiad.github.io/SurveyForm/).
 
 ## Screenshots
 ![](screenshot.png)
